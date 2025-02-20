@@ -8,10 +8,13 @@ git status
 git add .
 
 -> Salva uma versão dos arquivos 
-git commit -m "Porque estou salvando!?"
+git commit -m "Menssagem"
 
 -> Envia informação do computador para a nuvem 
 git push
 
 -> Baixa a atualização dos arquivos do github para uma pasta já existente
 git pull
+
+-> Para abrir a ferramenta Vs Code
+code .
