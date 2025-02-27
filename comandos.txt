@@ -16,6 +16,9 @@ git init
 -> Verificar o status do repositório 
 git status
 
+-> Sincroniza sem alterar a pasta local verificando mudanças no GitHub
+git fetch
+
 -> Salvar o arquivo primeiramente
 Ctrl s 
 
