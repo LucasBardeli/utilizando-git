@@ -22,6 +22,9 @@ git commit -m "Menssagem"
 -> Envia informação do computador para a nuvem 
 git push
 
+-> Clona o repositório para a pasta atual
+git clone caminho_do_repositório
+
 -> Baixa a atualização dos arquivos do github para uma pasta já existente
 git pull
 
