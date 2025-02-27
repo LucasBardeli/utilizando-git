@@ -13,6 +13,14 @@ code .
 -> Incializa um repositório git
 git init
 
+-> Renomear o branch localmente
+git branch -m master main
+
+Passo a passo do GitHub: 
+git remote add origin caminho-do-repositorio.git
+git branch -M main
+git push -u origin main
+
 -> Verificar o status do repositório 
 git status
 
@@ -32,10 +40,10 @@ git commit -m "Menssagem"
 git push
 
 -> Clona o repositório para uma pasta já existente
-git clone caminho_do_repositório
+git clone caminho-do-repositorio
 
 -> Baixa a atualização dos arquivos do github para uma pasta já existente
-git pull caminho_do_repositório
+git pull caminho-do-repositorio
 
 Mais comandos em: 
 https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/
