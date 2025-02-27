@@ -1,3 +1,7 @@
+-> Configura o pc com o nome e email do responsável pelo código 
+git config --global user.name "Lucas Bardeli de Bastiani Silva"
+git config --global user.email lucas.silva1111@fatec.sp.gov.br
+
 -> Incializa um repositório git
 git init
 
