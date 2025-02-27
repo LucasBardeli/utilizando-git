@@ -1,3 +1,8 @@
+-> Navegando no cmd
+cd nome_da_pasta  // entra na pasta
+cd ..             // volta uma pasta
+cd /              // leva para o C:
+
 -> Configura o pc com o nome e email do responsável pelo código 
 git config --global user.name "Lucas Bardeli de Bastiani Silva"
 git config --global user.email lucas.silva1111@fatec.sp.gov.br
