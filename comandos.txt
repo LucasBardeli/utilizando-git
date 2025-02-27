@@ -7,11 +7,17 @@ cd /              // leva para o C:
 git config --global user.name "Lucas Bardeli de Bastiani Silva"
 git config --global user.email lucas.silva1111@fatec.sp.gov.br
 
+-> Para abrir a ferramenta Vs Code
+code .
+
 -> Incializa um repositório git
 git init
 
 -> Verificar o status do repositório 
 git status
+
+-> Salvar o arquivo primeiramente
+Ctrl s 
 
 -> Adicionar os novos arquivos no git para versionar 
 git add .
@@ -22,11 +28,8 @@ git commit -m "Menssagem"
 -> Envia informação do computador para a nuvem 
 git push
 
--> Clona o repositório para a pasta atual
+-> Clona o repositório para uma pasta já existente
 git clone caminho_do_repositório
 
 -> Baixa a atualização dos arquivos do github para uma pasta já existente
-git pull
-
--> Para abrir a ferramenta Vs Code
-code .
+git pull caminho_do_repositório
