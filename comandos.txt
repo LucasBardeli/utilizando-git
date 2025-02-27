@@ -36,3 +36,6 @@ git clone caminho_do_repositório
 
 -> Baixa a atualização dos arquivos do github para uma pasta já existente
 git pull caminho_do_repositório
+
+Mais comandos em: 
+https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/
